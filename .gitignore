@@ -1,0 +1,7 @@
+
+app/.DS_Store
+*.DS_Store
+*.iml
+app/build
+app/build/*
+
