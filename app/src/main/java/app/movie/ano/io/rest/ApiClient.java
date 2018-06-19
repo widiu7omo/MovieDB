@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
     public static final String BASE_URL = "http://api.themoviedb.org/3/";
-    public static final String API_KEY = "2ed1faaea39dd29056427430651b5f24";
+    public static final String API_KEY = "Put your API key in here";
     public static final String IMAGE_URL_BASE_PATH = "http://image.tmdb.org/t/p/";
     private static Retrofit retrofit = null;
 
